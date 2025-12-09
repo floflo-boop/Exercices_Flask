@@ -7,3 +7,5 @@ Chaque séance aura son dossier.
 Dans chaque dossier on trouvera : des fichiers .ipynb quand le rendu le demande, et des dossiers nommés selon l'exercice auxquels ils répondent. 
 
 Ces derniers contiendront des applications Flask, chaque applications répondant à l'exercice en question. 
+
+Si les dossiers contiennent des exercices des séances précédentes, cela sera indiquer dans le nom du dossier.
